@@ -1,5 +1,5 @@
 @echo off
-title FiveM Cache Cleaner | KALASH LUA | discord.gg/BukSCSnDjn
+title FiveM Cleaner ::: KALASH LUA ::: discord.gg/BukSCSnDjn
 color e
 
 
